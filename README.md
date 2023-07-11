@@ -1,5 +1,4 @@
-# segTree
-General purpose segment tree library.
+# General purpose segment tree library.
 
 1. include SegmentTree.h
 2. to construct a segment tree you need to specify the following:<br>
